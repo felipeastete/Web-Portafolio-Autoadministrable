@@ -205,7 +205,7 @@ Las soluciones generadas fueron posteriormente adaptadas y corregidas manualment
 
 Repositorio:
 
-https://github.com/TU-USUARIO/TU-REPOSITORIO
+https://github.com/felipeastete/Web-Portafolio-Autoadministrable.git
 
 ---
 
